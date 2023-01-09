@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Dome
 - 👀 I’m interested in GameDev and D&D
 - 🌱 I’m currently learning Python and Java
-- 📫 How to reach me via Twitter @lava_do
 
 I am an trainee and practicing in my freetime with webdevelopment.
 
