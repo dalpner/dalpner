@@ -1,12 +1,8 @@
 - 👋 Hi, I’m Dome
 - 👀 I’m interested in GameDev and D&D
-- 🌱 I’m currently learning Python and Java
-
+- 🌱 I’m currently learning Python and Go
 I am an trainee and practicing in my freetime with webdevelopment.
 
-My current techstack:
-  - Python Flask
-  - React.js
 
 <!---
 dalpner/dalpner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
